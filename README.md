@@ -1,0 +1,2 @@
+# fuegian_sprat_ELS
+This repository contains code employed to assess spatio-temporal patterns of distribution and abundance of Fuegian sprat early life stages (ELS) along the longitudinal gradient between Tierra del Fuego and the Burdwood Bank, and to perform particle tracking simulations across the main spawning areas found in this region of the Southwest Atlantic Ocean. Data will be shared on reasonable request to Virginia A. García Alonso: garcialonso.v.a@gmail.com   
